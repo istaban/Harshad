@@ -23,5 +23,6 @@ public class HarsHad {
         int n = reader.nextInt(); 
         reader.close();
         System.out.println(HarsHad.checkNum(n));
+        System.out.println("dss");
     }
 }
